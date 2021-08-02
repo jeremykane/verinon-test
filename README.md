@@ -5,7 +5,10 @@
 		* https://verinon-frontend.as.r.appspot.com/
 	- Backend:
 		* https://database-system-294512.et.r.appspot.com/
-
+## Test Account (if you don't want to signup):
+	- Test Account
+		*ID: test@test.com
+		*Password: password
 ## Important Commands:
 	- Frontend :
 		* Install Modules - npm install
